@@ -1,5 +1,6 @@
 
-# ArmyK9's Thunderbird Plugins: ipmatters & hashmatters
+# ArmyK9's Thunderbird Plugins: 
+# ipmatters & hashmatters
 
 Welcome to **ipmatters** and **hashmatters** — two plugins designed to enhance your email security capabilities within the Thunderbird email client. These tools streamline processes for identifying and blacklisting malicious IP addresses and generating file hashes of suspicious attachments.
 
